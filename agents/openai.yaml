@@ -1,0 +1,4 @@
+interface:
+  display_name: "数模论文教练"
+  short_description: "指导赛题分析、模型设计、结果验证与竞赛论文写作润色"
+  default_prompt: "Use $math-modeling-paper-coach to analyze this mathematical modeling problem and produce a defensible model-and-writing plan."
