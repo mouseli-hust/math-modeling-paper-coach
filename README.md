@@ -86,7 +86,6 @@ math-modeling-paper-coach/
 ├── assets/
 │   └── contest-paper-template.md
 ├── docs/
-│   ├── GitHub首次上传指南.md
 │   ├── 使用手册.md
 │   └── 优秀论文分析总结.md
 ├── examples/
